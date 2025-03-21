@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img width="204" alt="image" src="https://github.com/clairecng/clairecng/assets/43993569/64528c22-f5ad-47d8-8bc8-f6f671fd7785">
-
 <!--
 **clairecng/clairecng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
